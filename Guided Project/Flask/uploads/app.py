@@ -6,8 +6,13 @@ import numpy as np
 import ibm_db
 import re
 
+app = Flask(__name__)
+app.sceret_key = 'a'
+conn = ibm_db.connect(Database=;Hostname=;PORT =;Security = SSL; SSLServerCertificate = ;UID=;PWD=)
+print("connected")
 
-
+if __name__ =="main":
+    app_run(debug=True)
 
 @app.route('/')
 def project():
