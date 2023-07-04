@@ -6,3 +6,7 @@ This repository contains all the assignments related to the AI course I am pursu
 
 # Table of Contents
 Assignment 1: Baiscs of Pandas Dataframe
+Assignment 2: Drug Prediction with an ANN model with input layer, min 3 hidden layers and output layer.
+Assignment 3: Bird classification using CNN.
+Guided Project: AI-enabled car parking using OpenCV
+
